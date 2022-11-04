@@ -24,7 +24,7 @@ Desarrollo de servidor **Node js** con **Express**. Creación de rutas con sus r
 
 * CRUD Vehiculos(Express - Express-Validator - Mongoose):  
     * http://localhost:3000/vehiculos/crear CREA VEHICULO (Sólo usuarios logueados con permiso admin)  
-    * ://localhost:3000/vehiculos/actualizar ACTUALIZA VEHICULO (Sólo usuarios logueados con permiso admin)  
+    * http://localhost:3000/vehiculos/actualizar ACTUALIZA VEHICULO (Sólo usuarios logueados con permiso admin)  
     * http://localhost:3000/vehiculos/eliminar ELIMINA VEHICULO (Sólo usuarios logueados con permiso admin)  
     * http://localhost:3000/vehiculos/ver MUESTRA LISTADO DE VEHICULOS  
     * http://localhost:3000/vehiculos/id MUESTRA VEHICULO POR ID  
