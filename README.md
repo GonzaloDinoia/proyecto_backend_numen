@@ -1,8 +1,8 @@
 # PROYECTO INTEGRADOR BACKEND
 
-## Consgina:
+## Consigna:
 
-Desarrollo de servidor Node js con Express. Creación de rutas con sus respectivos métodos HTTP para la comunicación con base de datos Mongo DB conformando un CRUD. Validación de rutas y creación de middleware propio. Consulta a API externa mediante librería Axios.
+Desarrollo de servidor **Node js** con **Express**. Creación de rutas con sus respectivos métodos HTTP para la comunicación con base de datos **Mongo DB** conformando un CRUD. Validación de rutas y creación de middleware propio. Consulta a API externa mediante librería **Axios**.
 
 ## Dependencias utilizadas:  
   
